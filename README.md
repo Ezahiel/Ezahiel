@@ -7,6 +7,8 @@
 - 💞️ I’m going to refresh my knowledge and gain more experience in the industry via Open Source Projects and Paid Projects, as over the time forgot a lot and even more has changed. 
 It's high time to move on, because I still remember the time of Turbo Pascal or Flash. 
 I've done various things in various languages, such as PHP, C/C++ ,Turbo Pascal or Javascript. Since I came back, I'm expanding my knowledge mainly in LUA, Python and C++, but I'm willing to venture into any other language because I love all kinds of challenges. 
+
+- I'm currently working on the Beyond All Reason Campaign API ( https://github.com/beyond-all-reason / www.beyondallreason.info/ ) with additional new features and various add-ons.
 - 📫 wilkubyk@googlemail.com
 
 <!---
